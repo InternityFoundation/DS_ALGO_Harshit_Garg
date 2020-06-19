@@ -1,3 +1,5 @@
+//This project shows the implementation of OLS method and gradient descent for Linear regression on a dataset.
+
 #include<bits/stdc++.h>
 
 #include<string>
