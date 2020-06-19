@@ -35,7 +35,7 @@ int main()
     if(option==2)
 
     {
-	ifstream ip("pizza.csv");
+	ifstream ip("slrxl12.csv");
 
 	string a,b;int c=0,d=0,j=0,i,k;vector<int>x;vector<int>y;vector<double> err;
 	vector<double>y_fit;
@@ -122,7 +122,7 @@ else if(option==1)
 
     vector<double> x,y,xdiff,ydiff,x2,xymulti,ypred;
 
-    ifstream p("pizza.csv");
+    ifstream p("slrxl12.csv");
 
     string a,b;
 
